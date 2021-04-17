@@ -3,7 +3,7 @@
 Hello and thank you for taking the time to complete this quick challenge!
 
 Challenge instructions:
-Please complete the Java problems below by writing a solution in Java and then submitting your solutions by creating a pull request to this repo. Please note that all of the solutions must fully compile, be executeable, and contain at least one junit test.
+Please clone this repo and complete the Java problems below by writing a solution, then submitting your solutions by creating a pull request to this repo. Please note that all of the solutions must fully compile without error, be executeable, and contain at least one junit test.
 
 Challenge 0 "Find the duplicate string":
 Use the following array in your solution; String[]{"java", "spring", "coffee", "java", "cup"};
